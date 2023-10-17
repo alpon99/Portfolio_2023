@@ -1,0 +1,245 @@
+/* 리뉴얼 리스트 */
+.redesign .inner ul li:nth-child(1) .imgBox {
+    position: absolute;
+    left: 7%;
+    bottom: -12%;
+}
+.redesign .inner ul li:nth-child(1) .textBox {
+    position: absolute;
+    right: -3%;
+    bottom: -31%;
+}
+.redesign .inner ul li .mainline1_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 6.3vw;
+}
+.redesign .inner ul li .mainline1_2 {
+    position: absolute;
+    bottom: 0;
+    left: 39.7%;
+    width: 24.2vw;
+}
+
+.redesign .inner ul li:nth-child(2) .imgBox {
+    position: absolute;
+    left: 64%;
+    bottom: -12%;
+}
+.redesign .inner ul li:nth-child(2) .textBox {
+    position: absolute;
+    left: -3%;
+    bottom: -31%;
+}
+.redesign .inner ul li .mainline2_1 {
+    position: absolute;
+    bottom: 0;
+    left: 31%;
+    width: 25.2vw;
+}
+.redesign .inner ul li .mainline2_2 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 5.2vw;
+}
+
+
+/* 모든 작업물 리스트 */
+.allWork .inner ul li:nth-child(1) .imgBox {
+    position: absolute;
+    left: 63%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(1) .textBox {
+    position: absolute;
+    left: 13.5%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line1_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 12.6vw;
+}
+.allWork .inner ul li .line1_2 {
+    position: absolute;
+    bottom: 0;
+    left: 34.8%;
+    width: 21.8vw;
+}
+.allWork .inner ul li .line1_3 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 4.3vw;
+}
+
+.allWork .inner ul li:nth-child(2) .imgBox {
+    position: absolute;
+    left: 6%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(2) .textBox {
+    position: absolute;
+    right: -3%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line2_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 5.7vw;
+}
+.allWork .inner ul li .line2_2 {
+    position: absolute;
+    bottom: 0;
+    left: 40.6%;
+    width: 29.2vw;
+}
+.allWork .inner ul li .line2_3 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 5.6vw;
+}
+
+.allWork .inner ul li:nth-child(3) .imgBox {
+    position: absolute;
+    left: 66%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(3) .textBox {
+    position: absolute;
+    left: 10%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line3_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 9.7vw;
+}
+.allWork .inner ul li .line3_2 {
+    position: absolute;
+    bottom: 0;
+    left: 48.2%;
+    width: 13vw;
+}
+.allWork .inner ul li .line3_3 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 10vw;
+}
+
+.allWork .inner ul li:nth-child(4) .imgBox {
+    position: absolute;
+    left: -3%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(4) .textBox {
+    position: absolute;
+    right: 0%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line4_1 {
+    position: absolute;
+    bottom: 0;
+    left: 27.2%;
+    width: 37.5vw;
+}
+.allWork .inner ul li .line4_2 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 6.8vw;
+}
+
+.allWork .inner ul li:nth-child(5) .imgBox {
+    position: absolute;
+    left: 64%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(5) .textBox {
+    position: absolute;
+    left: 4%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line5_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 4.3vw;
+}
+.allWork .inner ul li .line5_2 {
+    position: absolute;
+    bottom: 0;
+    left: 26.8%;
+    width: 28.2vw;
+}
+.allWork .inner ul li .line5_3 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 7.2vw;
+}
+
+.allWork .inner ul li:nth-child(6) .imgBox {
+    position: absolute;
+    left: 9%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(6) .textBox {
+    position: absolute;
+    right: -3%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line6_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 8vw;
+}
+.allWork .inner ul li .line6_2 {
+    position: absolute;
+    bottom: 0;
+    left: 43.6%;
+    width: 26.7vw;
+}
+.allWork .inner ul li .line6_3 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 6vw;
+}
+
+.allWork .inner ul li:nth-child(7) .imgBox {
+    position: absolute;
+    left: 66%;
+    bottom: -12%;
+}
+.allWork .inner ul li:nth-child(7) .textBox {
+    position: absolute;
+    left: 7.5%;
+    bottom: -35%;
+}
+.allWork .inner ul li .line7_1 {
+    position: absolute;
+    bottom: 0;
+    left: -3%;
+    width: 7.4vw;
+}
+.allWork .inner ul li .line7_2 {
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+    width: 27.4vw;
+}
+.allWork .inner ul li .line7_3 {
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    width: 2.3vw;
+}
